@@ -52,6 +52,7 @@ background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freel
   font-family: helvetica;
   font-size: 11px;
   color: white;
+  text-align: center;
 }
 footer{
   background-color: dimgray;
